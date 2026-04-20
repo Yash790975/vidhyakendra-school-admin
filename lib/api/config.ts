@@ -2,7 +2,7 @@
 const IS_PROD = true; // 🔁 manually toggle
 
   export const BASE_URL = IS_PROD
-  ? 'https://api.vidhyakendra.com/sms'
+  ? 'https://api.vidhyakendra.com/sms' 
   : 'http://localhost:4000/sms';
 
 export const IMAGE_BASE_URL = IS_PROD

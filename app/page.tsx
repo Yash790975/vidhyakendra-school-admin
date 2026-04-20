@@ -29,10 +29,10 @@ export default function SplashScreen() {
           <div className="absolute -inset-4 animate-pulse rounded-3xl bg-white/20 blur-xl transition-all duration-1000 group-hover:bg-white/30"></div>
           <div className="relative rounded-3xl bg-white p-10 shadow-2xl transition-transform duration-500 group-hover:scale-105">
             <img
-              src="/vidhyakendra-logo.png"
+              src="/Vidhyakendra-Logo.png" 
               alt="VidhyaKendra"
               className="h-28 w-auto object-contain"
-            />
+            /> 
           </div>
         </div>
         {/* Logo Container */}

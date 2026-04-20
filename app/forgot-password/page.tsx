@@ -7,7 +7,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
-import { Label } from '@/components/ui/label'
+import { Label } from '@/components/ui/label' 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { ArrowLeft, CheckCircle2, Eye, EyeOff } from 'lucide-react'
 import { adminApi } from '@/lib/api/admin'
@@ -126,7 +126,7 @@ export default function ForgotPasswordPage() {
         {/* Logo */}
         <div className="mb-8 flex justify-center">
           <img
-            src="/vidhyakendra-logo.png"
+            src="/Vidhyakendra-Logo.png"
             alt="VidhyaKendra"
             className="h-16 w-auto object-contain"
           />
