@@ -101,7 +101,7 @@ export default function LoginPage() {
           <div className="absolute bottom-10 right-10 h-64 w-64 animate-pulse rounded-full bg-white blur-3xl [animation-delay:1s]"></div>
         </div>
         <div className="relative z-10">
-          <img src="/vidhyakendra-logo.png" alt="VidhyaKendra" className="h-16 w-auto object-contain brightness-0 invert drop-shadow-lg" />
+          <img src="/Vidhyakendra-Logo.png" alt="VidhyaKendra" className="h-16 w-auto object-contain brightness-0 invert drop-shadow-lg" />
         </div>
         <div className="relative z-10 text-white">
           <h1 className="text-5xl font-bold mb-6 text-balance leading-tight">
@@ -128,7 +128,7 @@ export default function LoginPage() {
       <div className="flex-1 flex items-center justify-center p-8 bg-background">
         <div className="w-full max-w-md">
           <div className="mb-8 flex justify-center lg:hidden">
-            <img src="/vidhyakendra-logo.png" alt="VidhyaKendra" className="h-14 w-auto object-contain" />
+            <img src="/Vidhyakendra-Logo.png" alt="VidhyaKendra" className="h-14 w-auto object-contain" />
           </div>
 
           <Card className="border-border shadow-lg">
